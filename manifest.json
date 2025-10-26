@@ -1,0 +1,38 @@
+{
+  "background_color": "#ff6400",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "JT ANIMATIONS STUDIO",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "jtanimations",
+  "start_url": "/",
+  "theme_color": "#0231dd",
+  "icons": [
+    {
+      "src": "https://opal.google/images/share-card-prod.png",
+      "type": "image/png",
+      "sizes": "1440x810",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1440,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://opal.google/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
