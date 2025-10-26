@@ -1,0 +1,40 @@
+{
+  "background_color": "#ff7000",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "JT ANIMATIONS STUDIO",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "jtanimations",
+  "start_url": "/https://opal.google/?flow=drive:/1l8ykMUhNEpcqBeIMqq3G8WYzN25eEbrB&amp;shared&amp;mode=app",
+  "theme_color": "#2E8BE8",
+  "icons": [
+    {
+      "src": "https://opal.google/images/share-card-prod.png",
+      "type": "image/png",
+      "sizes": "1440x810",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1440,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://opal.google/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "https://opal.google/?flow=drive:/1l8ykMUhNEpcqBeIMqq3G8WYzN25eEbrB&amp;shared&amp;mode=app",
+  "description": "Turn your images into stunning motion videos with AI"
+}
